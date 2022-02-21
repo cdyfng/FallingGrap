@@ -1,0 +1,7 @@
+.env
+arguments*
+artifacts/
+cache/
+node_modules/
+package-lock.json
+scripts/9*
